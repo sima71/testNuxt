@@ -18,7 +18,7 @@
 
           <v-tab href="#tab-1"> همه ی محصولات </v-tab>
 
-          <v-tab href="#tab-2"> ایجاد محصول جدید </v-tab>
+          <v-tab href="#tab-2"> ایجاد محصول fffffff جدید </v-tab>
         </v-tabs>
       </template>
     </v-toolbar>
