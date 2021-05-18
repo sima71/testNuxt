@@ -27,7 +27,7 @@
       <v-tab-item id="tab-1">
         <v-card style="margin-top: 30px; margin-bottom: 70px">
           <v-card-title>
-            جستجو بر اساس
+            جستجو برghhhhh اساس
             <v-spacer></v-spacer>
             <v-text-field
               v-model="search"
